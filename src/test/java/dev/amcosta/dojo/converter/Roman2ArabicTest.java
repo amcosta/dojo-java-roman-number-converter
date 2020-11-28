@@ -1,5 +1,6 @@
 package dev.amcosta.dojo.converter;
 
+import dev.amcosta.dojo.roman2arabic.Roman2Arabic;
 import org.junit.Assert;
 import org.junit.Test;
 
